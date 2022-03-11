@@ -1,0 +1,22 @@
+html, body, div#root {
+  height: 100%
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  min-width: 320px;
+  background: #fff;
+  font-family: Lato, 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 1.4285em;
+  color: rgba(0, 0, 0, .87);
+  /* font-smoothing: antialiased; */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  box-sizing: inherit;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
