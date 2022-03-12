@@ -1,36 +1,15 @@
-# Welcome to Peaks project!
+# Introduction of project
 
-Hi! Peaks is a test project. This project has been developed on ReactJS. In simple Peaks is a NEWS application based on web technology  and entirely depends on [Guardian API](https://open-platform.theguardian.com/).
-
-## Installation Requirements
+Hi! This is seven peacks test. I developed this in React js By using [The Guardian](https://open-platform.theguardian.com/access/) API
+## Required Tools
  - [Nodejs](https://nodejs.org/en/)
  - [serve-build](https://www.npmjs.com/package/serve-build/v/0.1.0)
 
-## Local Environment
-Clone this Repository to a local folder.  Get your APIKey from [The Guardian](https://open-platform.theguardian.com/access/).
-```bash
-$ cd <folder name>
-$ npm install
-```
 ### For Linux or Mac OS
 ```bash
-$ REACT_APP_NEWSAPIKEY=<APIKey> npm run start
+$ REACT_APP_NEWSAPIKEY=0d998a23-7697-4082-a4f6-ec720af1dc42 npm run start
 ```
 ### For windows
 ```bash
-($env:REACT_APP_NEWSAPIKEY="<APIKey>") -and (npm run start)
-```
-
-## Production Environment
-```bash
-$ cd <folder name>
-$ npm install
-```
-### For Linux or Mac OS
-```bash
-$ REACT_APP_NEWSAPIKEY=<APIKey> npm run build
-```
-### For windows
-```bash
-($env:REACT_APP_NEWSAPIKEY="<APIKey>") -and (npm run build)
+($env:REACT_APP_NEWSAPIKEY="0d998a23-7697-4082-a4f6-ec720af1dc42") -and (npm run start)
 ```
