@@ -1,9 +1,11 @@
 # Introduction of project
 
 Hi! This is seven peacks test. I developed this in React js By using [The Guardian](https://open-platform.theguardian.com/access/) API
-## Required Tools
+## Requirement
  - [Nodejs](https://nodejs.org/en/)
- - [serve-build](https://www.npmjs.com/package/serve-build/v/0.1.0)
+ - [React JS](https://reactjs.org/)
+ - [TypeScript] (https://www.typescriptlang.org/)
+ - [GuardianApi](https://open-platform.theguardian.com/access/)
 
 ### For Linux or Mac OS
 ```bash
